@@ -1,0 +1,4 @@
+#!/bin/bash
+#
+
+exec {{pkg.path}}/bin/mongod 2>&1
